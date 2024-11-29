@@ -11,9 +11,10 @@ String texto;
 //Atribuição de valores
 inteiro = 5;
 numeroDecimal = 5.5;
-texto = "Victor"
+texto = "Victor";
 
-	System.out.println("Nome" + );
+	System.out.println("Nome: " + texto);
+System.out.println("int: " + inteiro);
 	}
 
 }
